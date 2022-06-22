@@ -1,4 +1,3 @@
-![haymai](https://raw.githubusercontent.com/haymaicc/haymaicc/haymai.png)
-
+![haymai](https://raw.githubusercontent.com/haymaicc/haymaicc/master/haymai.png)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/haymaicc/haymaicc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
